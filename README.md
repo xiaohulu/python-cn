@@ -1,2 +1,19 @@
-# python-cn
-Python 语言中文翻译
+# Python 中文翻译
+
+1. [Python 入门指南](https://doufuding.com/translate/5/translate/master/Doc/tutorial/index.rst)
+2. [开胃菜](https://doufuding.com/translate/5/translate/master/Doc/tutorial/appetite.rst)
+3. [使用 Python 解释器](https://doufuding.com/translate/5/translate/master/Doc/tutorial/interpreter.rst)
+4. [Python 简介](https://doufuding.com/translate/5/translate/master/Doc/tutorial/introduction.rst)
+5. [深入 Python 流程控制](https://doufuding.com/translate/5/translate/master/Doc/tutorial/controlflow.rst)
+6. [数据结构](https://doufuding.com/translate/5/translate/master/Doc/tutorial/datastructures.rst)
+7. [模块](https://doufuding.com/translate/5/translate/master/Doc/tutorial/modules.rst)
+8. [输入和输出](https://doufuding.com/translate/5/translate/master/Doc/tutorial/inputoutput.rst)
+9. [错误和异常（翻译中……）](https://doufuding.com/translate/5/translate/master/Doc/tutorial/errors.rst)
+10. [类（待翻译）](https://doufuding.com/translate/5/translate/master/Doc/tutorial/classes.rst)
+11. [Python 标准库概览（待翻译）](https://doufuding.com/translate/5/translate/master/Doc/tutorial/stdlib.rst)
+12. [Python 标准库概览——第二部分（待翻译）](https://doufuding.com/translate/5/translate/master/Doc/tutorial/stdlib2.rst)
+13. [虚拟环境和包（待翻译）](https://doufuding.com/translate/5/translate/master/Doc/tutorial/venv.rst)
+14. [接下来？（待翻译）](https://doufuding.com/translate/5/translate/master/Doc/tutorial/whatnow.rst)
+15. [交互式输入编辑模式历史回溯（待翻译）](https://doufuding.com/translate/5/translate/master/Doc/tutorial/interactive.rst)
+16. [浮点数算法：争议和限制（待翻译）](https://doufuding.com/translate/5/translate/master/Doc/tutorial/floatingpoint.rst)
+17. [附录（待翻译）](https://doufuding.com/translate/5/translate/master/Doc/tutorial/appendix.rst)
